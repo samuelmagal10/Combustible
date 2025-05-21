@@ -31,7 +31,7 @@ def main():
 
         seguir = input("\n¿Desea hacer otro cálculo? (1 = Sí / 2 = No): ").strip()
         if seguir != '1':
-            print("Gracias por usar la calculadora de combustible.\n")
+            print("Gracias hola mundo.\n")
             break
 
 if __name__ == "__main__":
